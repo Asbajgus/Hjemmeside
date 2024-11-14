@@ -8,3 +8,10 @@ body {
     /* dette er en commentar i css */
 align-items: center;
 }
+
+button {
+    background-color: white;
+    color: black;
+    
+
+}
